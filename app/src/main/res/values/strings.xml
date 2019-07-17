@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_heading">Welcome to ALC 4.0</string>
+    <string name="tetx_about_btn">ABOUT ALC </string>
+    <string name="tetx_profile_btn">My Profile </string>
+    <string name="webview_title">About ALC</string>
+    <string name="image_description"></string>
+    <string name="name">Moses Okeny</string>
+    <string name="track">Android</string>
+    <string name="Country">Uganda</string>
+    <string name="Email">okeny11@gmail.com</string>
+    <string name="phone_number">+256 755372275</string>
+    <string name="slack_username">mozele</string>
+</resources>
